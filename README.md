@@ -6,7 +6,7 @@ GroupMaker Community is an ABSEL Community resource. As such, the application ca
 
 ## Table of Contents
 
-1. README.md: An introductory message.
+1. README.md: This introductory message.
 2. Publications.md: A list of related ABSEL Proceedings publications.
 3. absel2026-framegame.ppsx: Presentation slides of the first publication.
 4. absel2026-readytoplay.ppsx: Presentation slides of the second publication.
